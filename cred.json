@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "precise-bank-448507-n5",
+  "private_key_id": "59031f054bfcc30a1b8da664e4b58a9e69601f95",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSYJX7ShSc2mzh\ny35Ct0b15PWHyjVCHmnomF9WVaXcADNhhditMgiF96ygmxxgmu0LnQmTbhh155IX\nsaLU8eMk8JDwEOyxrNsVyarrN149FkuGIWNTNl0AaVt8O8rqwuDJGBe0mW4Z66Kl\nDyQy2Po2O4z4PIK2iI455y7OHmR5K6qQOP0pjN7l72KTrwrU7rN/9/sZfJIPAQXF\nTMcU+kk++ab4zagP41Ozxn3A49FUTqlmbRGKDg0zm/it1Y/JqG2sj8RrEIm9/Xdu\n6j85nSgse+NphcLRS0kF2fOMtZmaARPAvx57ke5Qk2MqmJCA3TbV6uZK3MPza/Px\n8laX+dzZAgMBAAECggEAH7x3U7HAu0rOGx/mG61nVIfmLEZqU1+gLXjzBOSlwTL8\njU0yOyptk7whvBa6KK6mbNaTT7zPjtXQuadP/5y/3d42lyiOdF01ras/D/3JxyBa\nY1EdGTv9uqaqKOsiONkOLPfn95QfwmREJG9M0CjgUhcYtIf4Vg3ymrSP4INAN/EC\n5E7Lov3YeDWWVbt7C1pxJgMhTsVNzHbqlsGgaRCP3HbPrSFX4xaXjevlzJYfmNVs\n75/++/dCQ/fy0rWhvHL7rI+u50iqXwtGV4j3BATeP8xMUO3VawwLX2n+sSmf1Bsy\nhchMuzNGeKQdiAN0cEKfHpA7p4/w5nhGevIF4IHPswKBgQDpyYAnNGC+VzzPNuF/\nh7NxuPYkPjNpsnzU67x0mTVZ3HrZYZPH6sfr6iwauLHzYZLmVhLD4s9IHiOobdc7\nYNiTd93QyC7c0YBL0l6J2pNw8TAkEvDqDC3qolPhT78WVwbZgQrHgso09asxX4Wa\nsZQjZlvSLvUMTZ8ll9bYztd+dwKBgQDmXa23PXf1XW7WB/DAr64v3CfAqweUXu6P\nwmwHEAM2OtJICBI390MwDPD/B7sPoHEq6PhKx7Jn8AjpDwd/YNS3nEY/OK0KyKKT\nuQwGPQDhBSM4c3ZSYj1myttS+1OgnozwYxSCYgaXCPAJMDP55TdNiXGUayaj+HmF\nBxdq69PDLwKBgBlFOqECPGLWszAC0qUiWfc08wY/4vbN4Ehzos9HsEiiWHUe4wZ9\nDlcl3NaWmEWiimpza1vZLGazO099cAJvGXn3PvbObKJZ0vBfMPDdu4o9x+JeWcQy\nxNPT8BUutY0Ioyjnle6y6ICI/ZQ8qwhpoYWiDtLNWJeX3FgH7aVJ1mlJAoGBAKd8\nNHClIDIkXBEAdOmi0OG7DqvlrP0SiB+9Gw2Hds5WtcvpElXeT9r/jbfdxwL1g1HP\nT7YOuocW3WOUqb7Sh9V2qRwN+MF+XbVJNJTUhW8UbSb9y2jaRAoYMp2CXKrKm22q\nm56v5lqpBNupUCC/phWZeBqQTOeqH6+4GC6EhtHBAoGAYXw8GhmOaVqUKN9I31Aq\nxrLD2P1Rl3aY/lYH6xp4k26upu0YVQiDA7DzOlebKhki8Fa2dUFdX+nOwvXV9Y7X\nLHWjslQVQAwmZV0E6SecGQxsIyBaNMaIJWhnIie+uL5+NuQMaNmjlW8QJ+6T1Xyf\nHBTEv0TUwt1kCVHolZWU0Ao=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-api@precise-bank-448507-n5.iam.gserviceaccount.com",
+  "client_id": "110536666380079215208",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-api%40precise-bank-448507-n5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
